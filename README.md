@@ -1,2 +1,2 @@
 # EcoBot
-The best Discord Economy bot for your discord
+INACTIVE: WILL BE REMOVED ON 1-1-2021
